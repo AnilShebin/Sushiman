@@ -59,3 +59,7 @@ You can view the live demo [here](https://sushiman.anilshebin.in/)
 * [Vite](https://vitejs.dev/)
 * [AOS](https://michalsnik.github.io/aos/) - Animate on Scroll
 * Vanilla JS, HTML, CSS
+
+## 🙏 Credits 
+
+Thanks to [JS Mastery](https://youtu.be/QRrPE9aj3wI?feature=shared) for this amazing tutorial.
